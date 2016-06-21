@@ -1,7 +1,7 @@
 # polyStone - Polymer Project Seed
 
 This is a scaffold with Polymer wired up. It contains a minimal
-implementation of a Polymer Single Page App using app-route based
+implementation of a Polymer app using app-route based
 off https://github.com/Polymer/polycasts/tree/master/ep47-app-route-fouc/blog.
 
 # Getting Started
